@@ -1,0 +1,3 @@
+[submodule "mysqldump-php"]
+	path = mysqldump-php
+	url = https://github.com/ifsnop/mysqldump-php
